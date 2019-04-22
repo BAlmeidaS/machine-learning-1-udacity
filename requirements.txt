@@ -1,0 +1,7 @@
+jupyter
+numpy
+pandas
+jupyter_contrib_nbextensions
+gitpython
+sklearn
+matplotlib
